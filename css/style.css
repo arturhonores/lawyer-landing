@@ -156,7 +156,7 @@ ul {
 .banner {
     height: 100vh;
     width: 100%;
-    background-image: url("/madrid-optimizado.webp");
+    background-image: url("/img/madrid-optimizado.webp");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -323,7 +323,7 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.0)), url(/españa.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.0)), url(/img/españa.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -332,7 +332,7 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.0)), url(/arraigo-laboral.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.0)), url(/img/arraigo-laboral.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -341,7 +341,7 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.0)), url(/tarjeta-comunitaria.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.0)), url(/img/tarjeta-comunitaria.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -350,7 +350,7 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.0)), url(/arraigo-familiar.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.0)), url(/img/arraigo-familiar.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -359,7 +359,7 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.0)), url(/arraigo-social.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.0)), url(/img/arraigo-social.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -368,7 +368,7 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.0)), url(/reagrupacion-familiar.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.0)), url(/img/reagrupacion-familiar.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -829,7 +829,5 @@ ul {
     .faqs {
         flex-wrap: wrap;
     }
-
-
 
 }
